@@ -1,2 +1,3 @@
 # Student Registration System-Python
- A student registration system that keeps student information in excel and admin information in mysql database.
+
+It is a student registration application that we can easily use at all school levels and universities. This application has 3 interface pages; These are the Login page, the New admin registration page and the page where we registered the student. Only admins can register new users and the names and passwords of the admins are stored in the Mysql database. On the student registration page, the information of the student to be registered is entered, the profile photo is added, and this information is automatically processed in the excel table when the save button is pressed. We can then view, change or delete this information. Although the main purpose of this application is student registration, we can use this application in many other areas with a few minor changes.
